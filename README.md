@@ -51,7 +51,7 @@ Execute the program
  
   <tr>
              <td>Monday</td>
-             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Karthi Govindharaju</center></td>
+             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Obed Otto</center></td>
              <td colspan="2"><center>Mathematics for Artificial Intelligence/19MA220/Akila Mohan</center></td>
              <td><center>LUNCH BREAK</center></td>
              <td colspan="2"><center>Linear Algebra Laboratory/19MA221/Akila Mohan</center></td>
@@ -68,7 +68,7 @@ Execute the program
              <td colspan="2"><center>FREE HOURS</center></td>
              <td colspan="2"><center>Mathematics for Artificial Intelligence/19MA220/Akila Mohan</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Karthi Govindharaju</center></td>
+             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Obed Otto</center></td>
 </tr>
   <tr>
              <td>Thursday</td>
@@ -82,7 +82,7 @@ Execute the program
              <td colspan="2"><center>FREE HOURS</center></td>
              <td colspan="2"><center>Python Programming/19AI301/Akila Mohan</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Karthi Govindharaju</center></td>
+             <td colspan="2"><center>Fundamentals of Web Technology/19AI401/Obed Otto</center></td>
 </tr>
 
  
@@ -101,4 +101,4 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](ABHISHEK_TT.png)
+![GitHub Logo](R Hemapriya_TT.png)
