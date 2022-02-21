@@ -101,4 +101,4 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](_TT.png)
+![output](https://github.com/Hemapriya-2004/timetable/blob/main/timetable.PNG?raw=true)
